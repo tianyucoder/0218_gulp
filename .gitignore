@@ -1,0 +1,6 @@
+.idea
+node_modules
+*.mp3
+*.mp4
+.build
+.dist
