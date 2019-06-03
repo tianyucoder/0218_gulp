@@ -166,7 +166,7 @@
 
   * 使用gulp-imagemin优化图片
   	
-		 1.安装：npm install gulp-imagemin –save-dev
+		 1.安装：npm install gulp-imagemin -–save-dev
 		 2.引入：const imagemin = require('gulp-imagemin');
 		 3.定义任务：
 	  	gulp.task('imagemin', function () {
